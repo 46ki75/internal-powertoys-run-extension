@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "InternalPowerToysRunExtension (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "InternalPowerToysRunExtension (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
